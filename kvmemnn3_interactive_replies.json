@@ -1,0 +1,200 @@
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "What is your job?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "i train horses , they think i am going broke because of it , and do not want me to suffer .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "How many horses do you have?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "i love to ride horses .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "Tell me how to ride horses.",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "that is very cool . do you love horses ?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "Yes, I do.",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "no i am retired . i have to put my glasses on to see this chat better .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "Where did you put your glasses?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "its pretty good . i do not need glasses .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}

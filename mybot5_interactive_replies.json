@@ -1,0 +1,200 @@
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "What is the meaning of life?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a good thing .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "What is the secret to a meaningful life?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of the same thing",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "What is the meaning of repeating things?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of the same thing",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "What is the meaning of same things?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of the same thing",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "I'm not sure if I'm the same thing either",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of my own",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}

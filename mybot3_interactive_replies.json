@@ -1,0 +1,160 @@
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "I have two cats.",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not sure i ' m not a good time .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "Do you have any pets?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of my own .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "Do you have a garden?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of my own .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "Seq2Seq",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "hello?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "Seq2Seq",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        "Seq2Seq"
+    ],
+    "message_text": "i ' m not sure i ' m not a lot of my own .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}

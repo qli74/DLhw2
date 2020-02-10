@@ -1,0 +1,160 @@
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "What's your name?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "what is your name ?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "My name is Qianwei.",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "hi ! i am josh , from the west coast . california baby !",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "What's my name?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "okay what is your name ?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "My name is Qianwei./nWhat is my name?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "my name is mary , how are you ?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}

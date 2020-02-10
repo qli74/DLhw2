@@ -1,0 +1,160 @@
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "I have two cats.",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "i do not have any pets . what is your cats name ?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "My cats are named Xiaohua and Erbao.",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "socks is his name . he is black and white .",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "Is he a zebra?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "he is six , and he loved it ! i dressed my yorkie as a lion 3",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "localHuman",
+    "receiver": "",
+    "is_from_me": true,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "What is yorkie?",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
+{
+    "sha": null,
+    "sender": "",
+    "receiver": "localHuman",
+    "is_from_me": false,
+    "send_error": false,
+    "date": null,
+    "service": "parlai",
+    "date_read": null,
+    "date_delivered": null,
+    "participants": [
+        "localHuman",
+        ""
+    ],
+    "message_text": "he is a large mixed dog , brindle , his name is sox !",
+    "message_segments": [],
+    "attachments": [],
+    "associated_sha": "",
+    "_debug": null
+}
