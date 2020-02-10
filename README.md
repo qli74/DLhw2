@@ -28,3 +28,6 @@ python -m parlai.scripts.interactive -mf zoo:convai2/kvmemnn/model --save-world-
 valid:390.1
 
 test:399.0
+
+## checkpoint
+tr_twitter_2.checkpoint is 542.14 MB; this exceeds GitHub's file size limit of 100.00 MB
